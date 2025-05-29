@@ -2,7 +2,7 @@
 ## Workflow Design | Backend APIs | CI/CD Pipelines
 
 
-I’m a web developer with a strong passion for designing clean APIs, automating developer workflows, and orchestrating efficient CI/CD pipelines. With a foundation in electronics engineering and years of hands-on experience across embedded systems, robotics, and team-based software development in Japan and Peru, I bring a systems mindset to modern web development. I specialize in building backend services using Python (Flask, FastAPI), JavaScript (Express) and Java (springboot) along with SQL and NoSQL databases. I also organize collaborative Git-based workflows, ensuring teams ship code reliably and consistently.
+Hi, I’m a web developer with a strong passion for designing clean APIs, automating developer workflows, and orchestrating efficient CI/CD pipelines. With a foundation in electronics engineering and years of hands-on experience across embedded systems, robotics, and team-based software development in Japan and Peru, I bring a systems mindset to modern web development. I specialize in building backend services using Python (Flask, FastAPI), JavaScript (Express) and Java (springboot) along with SQL and NoSQL databases. I also organize collaborative Git-based workflows, ensuring teams ship code reliably and consistently.
 
 * 🌍  I'm based in Lima, Peru
 * 🧠  I enjoy learning something new everyday!

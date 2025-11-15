@@ -1,5 +1,5 @@
 # Ruben Alvarado
-## Backend Engineer | API Design | Workflow Design | CI/CD Pipelines
+## Web Engineer | Workflow Design | API Design | UI Implementation | CI/CD Pipelines
 
 
 Hi, I’m a backend engineer with a strong passion for designing clean APIs, automating developer workflows, and orchestrating efficient CI/CD pipelines. With a foundation in electronics engineering and years of hands-on experience across embedded systems, robotics, and team-based software development in Japan and Peru, I bring a systems mindset to modern web development. I specialize in building backend services using Python (Flask, FastAPI), JavaScript (Express) and Java (springboot) along with SQL and NoSQL databases. I also organize collaborative Git-based workflows, ensuring teams ship code reliably and consistently.
